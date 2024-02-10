@@ -1,0 +1,9 @@
+Name: oan
+ Employee number: 1
+Hours per week: 40
+ Hourly rate: 12
+ Name: dagmar
+ Employee number: 10
+Hours per week: 23
+ Hourly rate: 2
+ 
